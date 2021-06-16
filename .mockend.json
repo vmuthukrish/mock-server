@@ -2,9 +2,5 @@
   "Post":{
   "label":"string",
   "value":"int"
-  },
-  "suggest":{
-  "label":"string",
-  "value":"int"
-  },
+  }
 }
