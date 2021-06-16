@@ -1,4 +1,6 @@
 {
+  "Suggest":{
   "label":"string",
   "value":"int"
+  }
 }
